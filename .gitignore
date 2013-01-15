@@ -17,4 +17,6 @@ gwt-unitCache/
 secret.props
 secret.properties
 target/
+.classpath
+.project
 

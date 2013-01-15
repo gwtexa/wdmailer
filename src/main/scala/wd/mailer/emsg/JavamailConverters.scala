@@ -7,6 +7,7 @@ import javax.mail.UIDFolder
 import javax.mail.Address
 import javax.mail.internet.InternetAddress
 
+
 /**
  * Utility methods to convert javamail related objects to Eaddr, Emsg and our other objects.
  * As a result the output objects are not dependent on javamail library.

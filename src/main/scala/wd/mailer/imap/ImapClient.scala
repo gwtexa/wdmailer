@@ -30,6 +30,8 @@ object ImapClient extends App {
     }
   })
 }
+
+
 /**
  * interval in seconds
  */
